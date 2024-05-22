@@ -1,0 +1,1 @@
+if(ones==2 && str.find("11")!=string::npos)
